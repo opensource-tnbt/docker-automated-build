@@ -1,3 +1,3 @@
 FROM ubuntu
-MAINTAINER ngignir@gmail.com
+MAINTAINER Sridhar K. N. Rao <ngignir@gmail.com>
 CMD echo "Welcome to the Docker Workshop"
